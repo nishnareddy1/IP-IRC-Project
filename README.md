@@ -2,9 +2,9 @@
 Commands in Client :
 
 1. Create room:
-	createroom <ROOMNAME>
+	createroom <<ROOMNAME>>
 2. Join room:
-	joinroom <ROOMNAME>
+	joinroom <<ROOMNAME>>
 3. Listmembers room:
 	listmembers <ROOMNAME>
 4. Listrooms:
