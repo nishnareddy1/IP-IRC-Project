@@ -2,19 +2,19 @@
 Commands in Client :
 
 1. Create room:
-	createroom <<ROOMNAME>>
+	createroom ROOMNAME
 2. Join room:
-	joinroom <<ROOMNAME>>
+	joinroom ROOMNAME
 3. Listmembers room:
-	listmembers <ROOMNAME>
+	listmembers ROOMNAME
 4. Listrooms:
 	listrooms	
 5. Message room:
-	messageroom <ROOMNAME> <MESSAGE>
+	messageroom ROOMNAME MESSAGE
 6. Privatemessge client:
-	private <CLIENTNAME> <MESSAGE>
+	private CLIENTNAME <MESSAGE
 7. Leaveroom room:
-	leaveroom <ROOMNAME>	
+	leaveroom ROOMNAME	
 8. Client quit:
 	quit
 
