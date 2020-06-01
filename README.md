@@ -12,7 +12,7 @@ Commands in Client :
 5. Message room:
 	messageroom ROOMNAME MESSAGE
 6. Privatemessge client:
-	private CLIENTNAME <MESSAGE
+	private CLIENTNAME MESSAGE
 7. Leaveroom room:
 	leaveroom ROOMNAME	
 8. Client quit:
